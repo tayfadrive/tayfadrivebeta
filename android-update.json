@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2-beta",
-  "versionCode": 3,
+  "version": "1.0.3-beta",
+  "versionCode": 4,
   "downloadUrl": "https://github.com/tayfadrive/tayfadrivebeta/releases/latest/download/TayfaDrive.apk",
   "forceUpdate": false,
-  "message": "TayfaDrive beta indirme ve güncelleme adresleri yenilendi."
+  "message": "Araç fotoğraflı satış karnesi ve PDF paylaşımı, yarım kalan fiş hatırlatmaları, kilometre okuma ve sürüş takibi iyileştirmeleri."
 }
