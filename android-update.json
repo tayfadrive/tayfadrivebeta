@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4-beta",
-  "versionCode": 5,
+  "version": "1.0.5-beta",
+  "versionCode": 6,
   "downloadUrl": "https://github.com/tayfadrive/tayfadrivebeta/releases/latest/download/TayfaDrive.apk",
   "forceUpdate": false,
-  "message": "Daha az pil tüketen Android sürüş takibi, güncel bildirim geçmişi, boya/değişen ve ekspertiz, sigorta takibi, ilan hazırlama, kaza kaydı ve kroki; uygulama genelinde görünüm ve kullanım iyileştirmeleri."
+  "message": "İlk kurulumda araç eklenmeden fiş kutusunun görünmesi düzeltildi. Fiş kutusu, araç eklendikten sonra ana ekranda kullanılabilir."
 }
