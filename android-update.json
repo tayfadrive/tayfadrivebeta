@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5-beta",
-  "versionCode": 6,
+  "version": "1.0.6-beta",
+  "versionCode": 7,
   "downloadUrl": "https://github.com/tayfadrive/tayfadrivebeta/releases/latest/download/TayfaDrive.apk",
   "forceUpdate": false,
-  "message": "İlk kurulumda araç eklenmeden fiş kutusunun görünmesi düzeltildi. Fiş kutusu, araç eklendikten sonra ana ekranda kullanılabilir."
+  "message": "Son dolumun TL/km maliyeti artık daha belirgin. Tarih ve mesafe birlikte gösteriliyor; son dolum, aylık harcama ve geçmiş ortalama ana ekran, yakıt geçmişi, araç özeti ve raporlarda ayrı sunuluyor."
 }
