@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6-beta",
-  "versionCode": 7,
+  "version": "1.0.7-beta",
+  "versionCode": 8,
   "downloadUrl": "https://github.com/tayfadrive/tayfadrivebeta/releases/latest/download/TayfaDrive.apk",
   "forceUpdate": false,
-  "message": "Son dolumun TL/km maliyeti artık daha belirgin. Tarih ve mesafe birlikte gösteriliyor; son dolum, aylık harcama ve geçmiş ortalama ana ekran, yakıt geçmişi, araç özeti ve raporlarda ayrı sunuluyor."
+  "message": "OBD kokpiti yenilendi. Kadran tasarımı, renkler ve arka plan seçilebilir. Sürüş takibi, Garaj Asistanı ve yakıt fişlerine yönelik iyileştirmeler de bu sürümde."
 }
