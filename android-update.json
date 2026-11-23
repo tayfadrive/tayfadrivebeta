@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7-beta",
-  "versionCode": 8,
+  "version": "1.0.8-beta",
+  "versionCode": 9,
   "downloadUrl": "https://github.com/tayfadrive/tayfadrivebeta/releases/latest/download/TayfaDrive.apk",
   "forceUpdate": false,
-  "message": "OBD kokpiti yenilendi. Kadran tasarımı, renkler ve arka plan seçilebilir. Sürüş takibi, Garaj Asistanı ve yakıt fişlerine yönelik iyileştirmeler de bu sürümde."
+  "message": "OBD Görünüm önizlemesine basılı tutarak kullanabileceğiniz gaz pedalı, devir kesici animasyonu ve ibre selamlama kısayolu eklendi."
 }
