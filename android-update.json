@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8-beta",
-  "versionCode": 9,
+  "version": "1.0.9-beta",
+  "versionCode": 10,
   "downloadUrl": "https://github.com/tayfadrive/tayfadrivebeta/releases/latest/download/TayfaDrive.apk",
   "forceUpdate": false,
-  "message": "OBD Görünüm önizlemesine basılı tutarak kullanabileceğiniz gaz pedalı, devir kesici animasyonu ve ibre selamlama kısayolu eklendi."
+  "message": "Yatay OBD kokpitine ve tam ekran görünüme Hata Kodları kısayolu eklendi. Üstteki uyarı simgesinden açabilirsiniz."
 }
