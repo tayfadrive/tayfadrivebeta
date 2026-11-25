@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9-beta",
-  "versionCode": 10,
+  "version": "1.0.10-beta",
+  "versionCode": 11,
   "downloadUrl": "https://github.com/tayfadrive/tayfadrivebeta/releases/latest/download/TayfaDrive.apk",
   "forceUpdate": false,
-  "message": "Yatay OBD kokpitine ve tam ekran görünüme Hata Kodları kısayolu eklendi. Üstteki uyarı simgesinden açabilirsiniz."
+  "message": "Ana ekran widget’ları ayrılan alana uyum sağlıyor. Fişi saklarken dolum kilometresini ekleyebilir, daha sonra düzenleyebilirsiniz."
 }
